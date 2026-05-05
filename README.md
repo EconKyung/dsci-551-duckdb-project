@@ -62,10 +62,10 @@ Place it in the project folder with this exact name:
 
 Run:
 
-- python setup_database.py
+- python b_setup_database.py
 
 This will:
-- create `airline_project.duckdb`
+- create `us_airline_data.duckdb`
 - load the dataset into the `flights` table
 
 ---
