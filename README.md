@@ -24,6 +24,18 @@ Built for DSCI 551, the project focuses on connecting database internals with ap
 
 ---
 
+## Project Structure
+
+- a_schema.sql: Defines the database schema
+- b_setup_database.py: Loads dataset into DuckDB and creates the database
+- c_queries.py: Contains SQL query functions for all operations
+- d_app.py: Command-line version of the application
+- e_dashboard.py: Streamlit dashboard interface
+- requirements.txt: Python dependencies
+- README.md: Project documentation
+
+---
+
 ## 1. Environment Setup
 
 Make sure you have:
